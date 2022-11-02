@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SnakesAndLadders()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ rules()
+comment3.params=
+comment3.target=void\ present()
+comment4.params=p\ dvalue
+comment4.target=int\ calc_score(int,\ int)
+comment5.params=score
+comment5.target=boolean\ isWin(int)
+comment6.params=
+comment6.target=void\ ask()
+comment7.params=
+comment7.target=void\ startGame()
+numComments=8
