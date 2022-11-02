@@ -6,7 +6,7 @@ To design a simple non-graphical snakes and ladders game using fundamental conce
 
 
 ### FILES IN THIS REPOSITORY:
-1.package.bluej file: contains information about the creation date of the program created in BlueJ
+1. package.bluej file: contains information about the creation date of program created in BlueJ
 2. SnakesAndLadders.class file: containing Java bytecode and having .class extension that can be executed by JVM.
 3. SnakesAndLadders.ctxt file:  contains extra information for a class such as the comments structure and documentation for methods in the code
 4. SnakesAndLadders.java file: Source code in Java
